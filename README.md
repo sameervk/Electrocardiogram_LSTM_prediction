@@ -1,4 +1,4 @@
-# Electrocardiogram_LSTM_prediction
+# Electrocardiogram_modeling_LSTMs
 Anomaly Detection in Electrocardiograms using LSTMs
 
 
