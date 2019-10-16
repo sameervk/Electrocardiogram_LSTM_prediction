@@ -17,3 +17,10 @@ Anomaly Detection in Electrocardiograms using LSTMs
 * For anomaly warning, a mean absolute/squared error metric between the real and predicted data can be defined with a certain threshold above which an anomaly warning can be sounded.
 
 ![image](ECG_LSTM_Differencing.png)
+
+
+## No Differencing
+* Same model as above but with no differencing in the data before modeling.
+* Shows decent predictions but not good enough to detect anomalies. More data mainly and hyperparameter optimization is required to improve the training.
+
+![image](ECG_LSTM_no_differencing.png)
